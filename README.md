@@ -31,5 +31,9 @@
 ## 技术
 
 - `@mediapipe/tasks-vision`（pose_landmarker_lite，GPU 优先、CPU 自动回退）
+
 - 静态 PWA：`manifest.webmanifest` + `sw.js`（离线缓存应用外壳与模型）
+
 - 照片与视频帧只在设备本地处理，不会上传服务器
+
+  七分茶作品
